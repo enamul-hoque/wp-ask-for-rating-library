@@ -1,0 +1,1 @@
+Installation: composer require xpeedstudio/wp-ask-for-rating-library
